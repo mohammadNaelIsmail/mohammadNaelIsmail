@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 123" role="img" aria-label="Drone person and car detection: computer vision using YOLOv10b and VisDrone2019, a collaborative research project.">
+<rect width="960" height="123" rx="12" fill="#141b1c"/>
+<rect x=".5" y=".5" width="959" height="122" rx="11.5" fill="none" stroke="#82978c" stroke-opacity=".28"/>
+<rect x="20" y="25" width="5" height="73" rx="2.5" fill="#9eb4a6"/>
+<text x="49" y="31" font-family="ui-monospace,Consolas,monospace" font-size="10.5" fill="#8fa69a" letter-spacing="1.1">PROJECT / 02    ·    COMPUTER VISION / COLLABORATIVE</text>
+<text x="49" y="62" font-family="ui-sans-serif,system-ui,Segoe UI,sans-serif" font-weight="600" font-size="24" fill="#e9eee9">Drone · Person &amp; Car Detection</text>
+<text x="49" y="87" font-family="ui-sans-serif,system-ui,Segoe UI,sans-serif" font-size="14" fill="#b8c6bc">Detecting people and vehicles in aerial imagery.</text>
+<text x="49" y="108" font-family="ui-monospace,Consolas,monospace" font-size="10.5" fill="#9eb4a6">PYTHON  /  YOLOV10B  /  PYTORCH  /  VISDRONE2019</text>
+<g transform="translate(834 12)" fill="none" stroke="#9eb4a6" stroke-width="1.2">
+  <rect x="2" y="9" width="77" height="87" rx="4" stroke-opacity=".42"/>
+  <path d="M17 9v87 M64 9v87 M2 36h77 M2 69h77" stroke-opacity=".14"/>
+  <rect x="20" y="30" width="24" height="38" rx="1.5" stroke-dasharray="3 3"/>
+  <rect x="50" y="48" width="22" height="27" rx="1.5" stroke-dasharray="3 3" stroke-opacity=".7"/>
+  <path d="M31 16v10 M26 21h10 M59 38v6 M56 41h6" stroke-opacity=".55"/>
+  <circle cx="31" cy="49" r="2.5" fill="#bcd3c0" stroke="none">
+    <animate attributeName="opacity" values=".3;1;.3" dur="5.8s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="61" cy="61" r="2.5" fill="#bcd3c0" stroke="none">
+    <animate attributeName="opacity" values="1;.3;1" dur="5.8s" repeatCount="indefinite" />
+  </circle>
+</g>
+<path d="M919 26L928 34L919 42" stroke="#9eb4a6" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

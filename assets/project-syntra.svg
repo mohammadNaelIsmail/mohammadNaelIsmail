@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 123" role="img" aria-label="Syntra project: Streaming profile analytics from Kafka to search and dashboards.">
+  <rect width="960" height="123" rx="12" fill="#141b1c"/>
+  <rect x=".5" y=".5" width="959" height="122" rx="11.5" fill="none" stroke="#82978c" stroke-opacity=".28"/>
+  <rect x="20" y="25" width="5" height="73" rx="2.5" fill="#a6bba4"/>
+  <text x="49" y="31" font-family="ui-monospace,Consolas,monospace" font-size="10.5" fill="#8fa69a" letter-spacing="1.3">PROJECT / 03    ·    STREAM PROCESSING</text>
+  <text x="49" y="62" font-family="ui-sans-serif,system-ui,Segoe UI,sans-serif" font-weight="600" font-size="25" fill="#e9eee9">Syntra</text>
+  <text x="49" y="87" font-family="ui-sans-serif,system-ui,Segoe UI,sans-serif" font-size="14" fill="#b8c6bc">Streaming profile analytics from Kafka to search and dashboards.</text>
+  <text x="49" y="108" font-family="ui-monospace,Consolas,monospace" font-size="10.5" fill="#a6bba4">SCALA  /  SPARK  /  KAFKA  /  FASTAPI  /  REACT</text>
+  <g transform="translate(866 61)" fill="none" stroke="#a6bba4" stroke-width="1.4" stroke-opacity=".85"><rect x="-43" y="-30" width="21" height="14" rx="3"/><rect x="-4" y="-30" width="21" height="14" rx="3"/><rect x="-43" y="16" width="21" height="14" rx="3"/><rect x="-4" y="16" width="21" height="14" rx="3"/><path d="M-22-23H-4M-32-16V16M7-16V16M-22 23H-4M-13-23V23" stroke-opacity=".65"/><circle cx="-13" cy="0" r="4" fill="#a6bba4" stroke="none"/></g>
+  <path d="M919 26L928 34L919 42" stroke="#a6bba4" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

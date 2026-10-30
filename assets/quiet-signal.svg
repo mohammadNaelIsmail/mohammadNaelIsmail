@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 960 305" role="img" aria-labelledby="title desc">
+<title id="title">Mohammad Ismail — Quiet Signal</title>
+<desc id="desc">A restrained charcoal and sage green AI engineering profile banner. A gentle orbiting signal animation sits beside the name.</desc>
+<defs>
+ <linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#11191a"/><stop offset=".58" stop-color="#111719"/><stop offset="1" stop-color="#17211f"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#7d9c88" stop-opacity=".10"/><stop offset="1" stop-color="#7d9c88" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#a5b4ad" stroke-opacity=".05" stroke-width=".7"/></pattern>
+ <clipPath id="mask"><rect x=".5" y=".5" width="959" height="304" rx="13"/></clipPath>
+ <style><![CDATA[
+  .label{font:500 11px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#94aaa1;letter-spacing:2.1px}
+  .sub{font:400 18px ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif;fill:#bec9c1}
+  .name{font:600 57px ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif;letter-spacing:-2.5px}
+  .micro{font:400 11px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#7e948b;letter-spacing:1px}
+  @media (prefers-reduced-motion:reduce){.orbit,.pulse{animation:none!important}}
+ ]]></style>
+</defs>
+<g clip-path="url(#mask)">
+ <rect width="960" height="305" rx="13" fill="url(#back)"/>
+ <rect width="960" height="305" fill="url(#grid)"/>
+ <ellipse cx="760" cy="152" rx="235" ry="235" fill="url(#glow)"/>
+ <path d="M35 47H115 M35 254H925" fill="none" stroke="#9db1a6" stroke-opacity=".21"/>
+ <path d="M35 254H146" fill="none" stroke="#b8cdb5" stroke-opacity=".7" stroke-width="2"/>
+ <text x="35" y="34" class="label">MOHAMMAD / AI FIELD NOTES 001</text>
+ <text x="36" y="119" class="name" fill="#edf1ea">Mohammad</text>
+ <text x="36" y="179" class="name" fill="#a2b59f">Ismail</text>
+ <text x="38" y="221" class="sub">AI engineering, from models to systems.</text>
+ <text x="36" y="280" class="micro">LANGUAGE MODELS  /  COMPUTER VISION  /  DATA SYSTEMS</text>
+ <!-- Right-side signature: a technical signal atlas, deliberate rather than stock icons. -->
+ <g transform="translate(757 151)">
+  <circle r="121" stroke="#a6b5ad" stroke-opacity=".09" fill="none"/>
+  <circle r="100" stroke="#a6b5ad" stroke-opacity=".17" fill="none" stroke-dasharray="2 7"/>
+  <circle r="77" stroke="#acc4ac" stroke-opacity=".36" fill="none" stroke-width=".9"/>
+  <circle r="57" stroke="#acc4ac" stroke-opacity=".20" fill="none" stroke-width=".7"/>
+  <circle r="15" stroke="#b3c7b6" stroke-opacity=".65" fill="none" stroke-width="1.2"/>
+  <circle r="3.5" fill="#d6e3d5"/>
+  <path d="M-128 0H-97 M97 0H128 M0-128V-97 M0 97V128" stroke="#a6bfb0" stroke-opacity=".35" stroke-width=".9"/>
+  <path d="M-100-15L-68-15L-44-40H5L42-78" fill="none" stroke="#9aac9f" stroke-width="1" stroke-opacity=".55"/>
+  <path d="M-92 63L-52 63L-26 34H18L66-12" fill="none" stroke="#809b8e" stroke-opacity=".44"/>
+  <circle cx="-100" cy="-15" r="3" fill="#b2cbb5"/>
+  <circle cx="42" cy="-78" r="3" fill="#b2cbb5"/>
+  <circle cx="-92" cy="63" r="2.8" fill="#b2cbb5"/>
+  <circle cx="66" cy="-12" r="3" fill="#b2cbb5"/>
+  <g>
+   <path d="M0-77A77 77 0 0 1 73 24" stroke="#c3d7c0" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="47 480"/>
+   <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="38s" repeatCount="indefinite"/>
+  </g>
+  <g>
+   <circle r="4.8" fill="#dbe6d7" stroke="#91ac98" stroke-width="4" stroke-opacity=".22">
+    <animateMotion dur="13s" repeatCount="indefinite" path="M-100,-15 L-68,-15 L-44,-40 L5,-40 L42,-78" keyTimes="0;1" calcMode="linear"/>
+    <animate attributeName="opacity" values=".12;.88;.12" dur="13s" repeatCount="indefinite"/>
+   </circle>
+  </g>
+ </g>
+ <text x="881" y="281" class="micro" text-anchor="end">SIGNAL / AI</text>
+ <rect x=".5" y=".5" width="959" height="304" rx="13" fill="none" stroke="#71867b" stroke-opacity=".42"/>
+</g>
+</svg>
