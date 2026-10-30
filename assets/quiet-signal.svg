@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 960 305" role="img" aria-labelledby="title desc">
 <title id="title">Mohammad Ismail — Quiet Signal</title>
-<desc id="desc">A restrained charcoal and sage green AI engineering profile banner. A gentle orbiting signal animation sits beside the name.</desc>
+<desc id="desc">A restrained charcoal and sage green AI engineering profile banner. Each letter of the name fades into view smoothly with a synchronized writing cursor and stays visible; a gentle orbiting signal animates beside it.</desc>
 <defs>
  <linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#11191a"/><stop offset=".58" stop-color="#111719"/><stop offset="1" stop-color="#17211f"/></linearGradient>
  <radialGradient id="glow"><stop stop-color="#7d9c88" stop-opacity=".10"/><stop offset="1" stop-color="#7d9c88" stop-opacity="0"/></radialGradient>
@@ -11,7 +11,9 @@
   .sub{font:400 18px ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif;fill:#bec9c1}
   .name{font:600 57px ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif;letter-spacing:-2.5px}
   .micro{font:400 11px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#7e948b;letter-spacing:1px}
-  @media (prefers-reduced-motion:reduce){.orbit,.pulse{animation:none!important}}
+  @media (prefers-reduced-motion:reduce){
+   .orbit,.pulse{animation:none!important}
+  }
  ]]></style>
 </defs>
 <g clip-path="url(#mask)">
@@ -21,9 +23,18 @@
  <path d="M35 47H115 M35 254H925" fill="none" stroke="#9db1a6" stroke-opacity=".21"/>
  <path d="M35 254H146" fill="none" stroke="#b8cdb5" stroke-opacity=".7" stroke-width="2"/>
  <text x="35" y="34" class="label">MOHAMMAD / AI FIELD NOTES 001</text>
- <text x="36" y="119" class="name" fill="#edf1ea">Mohammad</text>
- <text x="36" y="179" class="name" fill="#a2b59f">Ismail</text>
- <text x="38" y="221" class="sub">AI engineering, from models to systems.</text>
+
+ <text x="36" y="119" class="name" fill="#edf1ea"><tspan opacity="0">M<animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.14s" fill="freeze"/></tspan><tspan opacity="0">o<animate attributeName="opacity" from="0" to="1" begin="0.69s" dur="0.14s" fill="freeze"/></tspan><tspan opacity="0">h<animate attributeName="opacity" from="0" to="1" begin="0.90s" dur="0.14s" fill="freeze"/></tspan><tspan opacity="0">a<animate attributeName="opacity" from="0" to="1" begin="1.11s" dur="0.14s" fill="freeze"/></tspan><tspan opacity="0">m<animate attributeName="opacity" from="0" to="1" begin="1.32s" dur="0.14s" fill="freeze"/></tspan><tspan opacity="0">m<animate attributeName="opacity" from="0" to="1" begin="1.53s" dur="0.14s" fill="freeze"/></tspan><tspan opacity="0">a<animate attributeName="opacity" from="0" to="1" begin="1.74s" dur="0.14s" fill="freeze"/></tspan><tspan opacity="0">d<animate attributeName="opacity" from="0" to="1" begin="1.95s" dur="0.14s" fill="freeze"/></tspan></text>
+ <text x="36" y="179" class="name" fill="#a2b59f"><tspan opacity="0">I<animate attributeName="opacity" from="0" to="1" begin="2.67s" dur="0.14s" fill="freeze"/></tspan><tspan opacity="0">s<animate attributeName="opacity" from="0" to="1" begin="2.88s" dur="0.14s" fill="freeze"/></tspan><tspan opacity="0">m<animate attributeName="opacity" from="0" to="1" begin="3.09s" dur="0.14s" fill="freeze"/></tspan><tspan opacity="0">a<animate attributeName="opacity" from="0" to="1" begin="3.30s" dur="0.14s" fill="freeze"/></tspan><tspan opacity="0">i<animate attributeName="opacity" from="0" to="1" begin="3.51s" dur="0.14s" fill="freeze"/></tspan><tspan opacity="0">l<animate attributeName="opacity" from="0" to="1" begin="3.72s" dur="0.14s" fill="freeze"/></tspan></text>
+ <rect x="36" y="75" width="2.1" height="48" rx="1" fill="#edf1ea" opacity="0">
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;.88;1" begin="0.48s" dur="1.790s" fill="freeze"/>
+  <animate attributeName="x" values="36.000;86.448;86.448;86.448;118.941;118.941;118.941;153.024;153.024;153.024;184.034;184.034;184.034;236.464;236.464;236.464;288.906;288.906;288.906;319.915;319.915;319.915;353.085;353.085" keyTimes="0.000000;0.078212;0.116760;0.117318;0.195531;0.234078;0.234637;0.312849;0.351397;0.351955;0.430168;0.468715;0.469274;0.547486;0.586034;0.586592;0.664804;0.703352;0.703911;0.782123;0.820670;0.821229;0.899441;1.000000" calcMode="linear" begin="0.48s" dur="1.790s" fill="freeze"/>
+ </rect>
+ <rect x="36" y="135" width="2.1" height="48" rx="1" fill="#a2b59f" opacity="0">
+  <animate attributeName="opacity" values="1;1;0" keyTimes="0;.88;1" begin="2.67s" dur="1.370s" fill="freeze"/>
+  <animate attributeName="x" values="36.000;54.596;54.596;54.596;80.016;80.016;80.016;132.446;132.446;132.446;163.456;163.456;163.456;177.317;177.317;177.317;191.166;191.166" keyTimes="0.000000;0.102190;0.152555;0.153285;0.255474;0.305839;0.306569;0.408759;0.459124;0.459854;0.562044;0.612409;0.613139;0.715328;0.765693;0.766423;0.868613;1.000000" calcMode="linear" begin="2.67s" dur="1.370s" fill="freeze"/>
+ </rect>
+  <text x="38" y="221" class="sub">AI engineering, from models to systems.</text>
  <text x="36" y="280" class="micro">LANGUAGE MODELS  /  COMPUTER VISION  /  DATA SYSTEMS</text>
  <!-- Right-side signature: a technical signal atlas, deliberate rather than stock icons. -->
  <g transform="translate(757 151)">
