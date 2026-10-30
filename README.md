@@ -2,16 +2,11 @@
 <div align="center">
   <img src="./assets/quiet-signal.svg" width="100%" alt="Mohammad Ismail — AI engineering, from models to systems. Subtle animated geometric motif." />
 </div>
-
-<br />
-
 <sub>01 / ABOUT</sub>
 
 I work at the intersection of language models, computer vision, and the systems behind applied AI. Interested in evaluating models carefully and building things that work beyond the notebook.
 
 <sub>The dream is full-stack, the reality is debugging.</sub>
-
-<br />
 
 <sub>02 / SELECTED WORK</sub>
 
@@ -25,20 +20,14 @@ I work at the intersection of language models, computer vision, and the systems 
 
 <a href="https://github.com/mohammadNaelIsmail/Syntra"><img src="./assets/project-syntra.svg" width="100%" alt="Syntra — local streaming-analytics prototype using Kafka, Spark, Elasticsearch, FastAPI, and React." /></a>
 
-<br />
+<sub>03 / AREAS & TOOLS</sub>
 
-<sub>03 / AREAS &amp; TOOLS</sub>
-
-`Language models` · `Computer vision` · `Model evaluation` · `Python` · `PyTorch` · `YOLO` · `Scala` · `Spark` · `Kafka` · `FastAPI`
-
-<br />
+Language models · Computer vision · Model evaluation · Python · PyTorch · YOLO · Scala · Spark · Kafka · FastAPI
 
 <sub>04 / ACTIVITY</sub>
-
 <div align="center">
-  <a href="https://github.com/mohammadNaelIsmail?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohammadNaelIsmail&amp;show_icons=true&amp;hide_border=true&amp;bg_color=101619&amp;title_color=A6BBA4&amp;text_color=C2CDC5&amp;icon_color=9AB09E&amp;ring_color=9AB09E&amp;include_all_commits=true&amp;rank_icon=github" alt="GitHub activity statistics for mohammadNaelIsmail" width="470" />
-  </a>
+  <a href="https://github.com/mohammadNaelIsmail?tab=overview"><strong>View GitHub contributions &amp; activity ↗</strong></a>
 </div>
+<sub>The contribution graph below this README is provided directly by GitHub and updates automatically.</sub>
 
 <sub>Curious about models. Careful with systems.</sub>
