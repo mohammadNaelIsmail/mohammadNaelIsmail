@@ -21,13 +21,5 @@ I work at the intersection of language models, computer vision, and the systems 
 <a href="https://github.com/mohammadNaelIsmail/Syntra"><img src="./assets/project-syntra.svg" width="100%" alt="Syntra — local streaming-analytics prototype using Kafka, Spark, Elasticsearch, FastAPI, and React." /></a>
 
 <sub>03 / AREAS & TOOLS</sub>
-
-Language models · Computer vision · Model evaluation · Python · PyTorch · YOLO · Scala · Spark · Kafka · FastAPI
-
-<sub>04 / ACTIVITY</sub>
-<div align="center">
-  <a href="https://github.com/mohammadNaelIsmail?tab=overview"><strong>View GitHub contributions &amp; activity ↗</strong></a>
-</div>
-<sub>The contribution graph below this README is provided directly by GitHub and updates automatically.</sub>
-
+<img src="./assets/focus.svg" width="100%" alt="Technical focus: language models and evaluation with Qwen and LoRA; computer vision with YOLOv10b and PyTorch; data systems with Kafka, Spark, Scala, and FastAPI." />
 <sub>Curious about models. Careful with systems.</sub>
