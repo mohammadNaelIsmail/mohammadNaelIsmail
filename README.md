@@ -6,7 +6,7 @@
 
 I work at the intersection of language models, computer vision, and the systems behind applied AI. Interested in evaluating models carefully and building things that work beyond the notebook.
 
-<sub>The dream is full-stack, the reality is debugging.</sub>
+<sub>Maybe, I am HIM.</sub>
 
 <sub>02 / SELECTED WORK</sub>
 
